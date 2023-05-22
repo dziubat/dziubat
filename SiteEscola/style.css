@@ -35,8 +35,30 @@ body{
     font-family:'Poppins',sans-serif;
 }
 .estudante-imagem{
-    width: 250px;
+    width: 120px;
 }
 .estudante-div{
     text-align: center;
+    padding: 50px 0;
 }
+.rodape{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+.rodape-imagem {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+.estudante-titulo{
+    text-align: center;
+
+}
+.estudante-icone{
+    width:24px;
+    }
+.estudante-todos {
+   display:grid;
+   grid-template-columns: 20% 20% 20% 20% 20%;
+   }
